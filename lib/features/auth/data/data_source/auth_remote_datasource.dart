@@ -46,7 +46,7 @@ class AuthRemoteDataSource {
         'password': password,
         'phone': phone,
       };
-      print('Register request body: ' + requestBody.toString()); // Debug print
+      print('Register request body: $requestBody'); // Debug print
       final response = await http.post(
         Uri.parse('$baseUrl/auth/register'),
         headers: {'Content-Type': 'application/json'},
