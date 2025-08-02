@@ -1,0 +1,99 @@
+{
+  "shoes": [
+    {
+      "name": "Nike Air Jordan 1 Retro High OG",
+      "description": "The Air Jordan 1 Retro High OG brings back the classic silhouette with premium leather construction and the iconic Wings logo.",
+      "brand": "Nike",
+      "price": 170.00,
+      "originalPrice": 200.00,
+      "category": "Lifestyle",
+      "colors": ["Black", "Red", "White"],
+      "condition": "New",
+      "inStock": true,
+      "featured": true,
+      "availableSizes": [
+        { "size": 7, "quantity": 5 },
+        { "size": 8, "quantity": 8 },
+        { "size": 9, "quantity": 10 },
+        { "size": 10, "quantity": 6 },
+        { "size": 11, "quantity": 4 }
+      ]
+    },
+    {
+      "name": "Adidas Ultraboost 22",
+      "description": "The Ultraboost 22 features responsive Boost midsole technology and a Primeknit+ upper for ultimate comfort and performance.",
+      "brand": "Adidas",
+      "price": 190.00,
+      "originalPrice": 220.00,
+      "category": "Running",
+      "colors": ["White", "Black", "Blue"],
+      "condition": "New",
+      "inStock": true,
+      "featured": true,
+      "availableSizes": [
+        { "size": 7, "quantity": 3 },
+        { "size": 8, "quantity": 7 },
+        { "size": 9, "quantity": 9 },
+        { "size": 10, "quantity": 5 },
+        { "size": 11, "quantity": 3 }
+      ]
+    },
+    {
+      "name": "Converse Chuck Taylor All Star",
+      "description": "The classic Chuck Taylor All Star canvas sneaker with vulcanized rubber sole and timeless design.",
+      "brand": "Converse",
+      "price": 65.00,
+      "originalPrice": 70.00,
+      "category": "Casual",
+      "colors": ["White", "Black", "Navy"],
+      "condition": "New",
+      "inStock": true,
+      "featured": false,
+      "availableSizes": [
+        { "size": 6, "quantity": 10 },
+        { "size": 7, "quantity": 15 },
+        { "size": 8, "quantity": 20 },
+        { "size": 9, "quantity": 18 },
+        { "size": 10, "quantity": 12 }
+      ]
+    },
+    {
+      "name": "Nike LeBron 19",
+      "description": "The LeBron 19 basketball shoe features Zoom Air units and a lightweight knit upper for explosive performance on the court.",
+      "brand": "Nike",
+      "price": 200.00,
+      "originalPrice": 250.00,
+      "category": "Basketball",
+      "colors": ["Purple", "Gold", "Black"],
+      "condition": "New",
+      "inStock": true,
+      "featured": true,
+      "availableSizes": [
+        { "size": 8, "quantity": 4 },
+        { "size": 9, "quantity": 6 },
+        { "size": 10, "quantity": 8 },
+        { "size": 11, "quantity": 5 },
+        { "size": 12, "quantity": 3 }
+      ]
+    },
+    {
+      "name": "Vans Old Skool",
+      "description": "The iconic Vans Old Skool features the signature side stripe and durable canvas construction for skateboarding and casual wear.",
+      "brand": "Vans",
+      "price": 60.00,
+      "originalPrice": 65.00,
+      "category": "Casual",
+      "colors": ["Black", "White", "Red"],
+      "condition": "New",
+      "inStock": true,
+      "featured": false,
+      "availableSizes": [
+        { "size": 6, "quantity": 8 },
+        { "size": 7, "quantity": 12 },
+        { "size": 8, "quantity": 15 },
+        { "size": 9, "quantity": 10 },
+        { "size": 10, "quantity": 8 }
+      ]
+    }
+  ]
+} 
